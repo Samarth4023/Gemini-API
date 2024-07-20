@@ -58,12 +58,10 @@ The Flash series is a line of lightweight language models designed for specific 
 
 This is a brief introduction to the Gemini family of language models. For more information, please refer to the official Gemini documentation.
 
----
-
 ## 📝 Documentation
 
 For detailed documentation and usage examples, please refer to the official [GeminiAPI Documentation](https://ai.google.dev/.)
 
 ---
 
-Happy coding! ♊✨
+### Happy coding! ♊✨
